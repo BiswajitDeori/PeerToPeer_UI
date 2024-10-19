@@ -18,7 +18,7 @@ import FileDownloadIcon from "@mui/icons-material/FileDownload";
 import { CopyToClipboard } from "react-copy-to-clipboard";
 import io from "socket.io-client";
 
-const socket = io.connect("http://localhost:5000");
+const socket = io.connect("https://peertopeer-server.onrender.com");
 
 export const Room = () => {
   const { roomID } = useParams();

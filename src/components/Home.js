@@ -12,7 +12,7 @@ import { v1 as uuid } from "uuid";
 import io from "socket.io-client";
 import { useNavigate } from "react-router-dom";
 
-const socket = io.connect("http://localhost:5000");
+const socket = io.connect("https://peertopeer-server.onrender.com");
 
 export const Home = () => {
   const navigate = useNavigate();
