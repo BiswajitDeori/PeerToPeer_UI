@@ -1,6 +1,6 @@
-# Peer-to-Peer File Transfer System using WebRTC and Socket.io
+# Peer-to-Peer File Transfer System using Socket.io
 
-This project is a **peer-to-peer (P2P) file transfer system** built using **WebRTC** for real-time communication, **Socket.io** for signaling between peers, and **Express.js** for the backend. The frontend is developed in **React**, providing an easy-to-use interface for users to connect and transfer files directly between devices without the need for an intermediary server.
+This project is a **peer-to-peer (P2P) file transfer system** built using **Socket.io** for signaling between peers, and **Express.js** for the backend. The frontend is developed in **React**, providing an easy-to-use interface for users to connect and transfer files directly between devices without the need for an intermediary server.
 
 ## Key Features:
 - **Real-time Peer-to-Peer Connections:** Utilizes WebRTC to establish direct P2P connections between users for efficient file transfers.
@@ -27,4 +27,4 @@ This project is a **peer-to-peer (P2P) file transfer system** built using **WebR
 ## Installation & Setup:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/peer-to-peer-file-transfer.git
+   [git clone https://github.com/your-username/peer-to-peer-file-transfer.git](https://github.com/BiswajitDeori/PeerToPeer_UI.git)
