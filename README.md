@@ -28,3 +28,7 @@ This project is a **peer-to-peer (P2P) file transfer system** built using **Sock
 1. Clone the repository:
    ```bash
    [git clone https://github.com/your-username/peer-to-peer-file-transfer.git](https://github.com/BiswajitDeori/PeerToPeer_UI.git)
+
+2.  Start the Application 
+     npm start
+
